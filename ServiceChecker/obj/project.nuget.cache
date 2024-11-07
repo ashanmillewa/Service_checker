@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyOXeizsT8g=",
+  "success": true,
+  "projectFilePath": "D:\\Ashan_Projects\\Service_checker\\ServiceChecker\\ServiceChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashan\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\ashan\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.1\\system.serviceprocess.servicecontroller.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

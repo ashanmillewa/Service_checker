@@ -1,0 +1,10 @@
+D:\schecker\ServiceChecker.exe
+D:\schecker\ServiceChecker.dll
+D:\schecker\ServiceChecker.deps.json
+D:\schecker\ServiceChecker.runtimeconfig.json
+D:\schecker\ServiceChecker.pdb
+D:\schecker\System.Diagnostics.EventLog.dll
+D:\schecker\System.ServiceProcess.ServiceController.dll
+D:\schecker\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\schecker\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\schecker\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
